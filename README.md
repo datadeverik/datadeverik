@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Erik aka Data Dev Erik
+
+I'm an open source software developer and content creator trying to help people get into data analysis and software development.
 
 <!--
 **datadeverik/datadeverik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
